@@ -1,0 +1,10 @@
+mkdir - cria uma nova pasta
+cd - entrar na pasta
+ls - ve o local que esta inserido
+git config --global user.email "email"
+git config --global user.name nome
+git commit -m - para comentar 
+git status - para ver a situação dos arquivos 
+git add . - para adicionar os arquivos 
+git push origin main - insere dentro do github no browser 
+git clone - colar link do repositorio criado
