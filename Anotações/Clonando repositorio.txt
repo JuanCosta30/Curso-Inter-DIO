@@ -1,0 +1,11 @@
+Criando um repositório no github e clonando
+
+Criar um novo repositorio
+Nomear e deixar publico
+Escolha a Licença Mit licence
+Após criado respositório ir no botão verde escrito CODE
+Selecione o HTTPS e copie o link
+Crie uma pasta no pc e dentro dela botao direito dar um Git bash here
+Digite o comando Git clone e cole o link
+Digite cd e o nome da pasta clonada
+confirme com um git status
