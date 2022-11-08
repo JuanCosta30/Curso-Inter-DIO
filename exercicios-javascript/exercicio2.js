@@ -1,4 +1,4 @@
-/*const precoEtanol = 5.49;
+const precoEtanol = 5.49;
 const precoGasolina = 4.98;
 const tipoCombustivel = "Gasolina";
 const kmPorLitros = 10;
@@ -12,5 +12,4 @@ if(tipoCombustivel === "Etanol"){
 }else{
     const valorGasto = litrosConsumidos * precoGasolina;
     console.log(valorGasto.toFixed(2));
-}*/
-
+}
